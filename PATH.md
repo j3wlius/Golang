@@ -71,6 +71,7 @@
 - [ ] Error handling with `error` interface
 
 ## Tier 7: Concurrency
+
 > You write fast, parallel programs.
 
 - [ ] Goroutines: `go func()`
@@ -126,3 +127,15 @@
 - [Go by Example](https://gobyexample.com)
 - [Effective Go](https://golang.org/doc/effective_go)
 - [Go Proverbs](https://go-proverbs.github.io/)
+
+```Tier 1:
+```
+
+<!--
+    - Covered what a package is and what main is
+    - How to import packages and reuse them in different parts of the projec
+    - learnt func main and it's importance
+    - learnt printing using fmt package
+    - Learnt basic variables using var (to be covered in detail tomorrow along with
+            basic data types, constants, go run and go build)
+ -->
